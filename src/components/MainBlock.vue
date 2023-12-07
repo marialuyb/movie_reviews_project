@@ -9,7 +9,7 @@
             </div>
             <h1 class="main_heading">Главная страница</h1>
             <div class="film_cards">
-                <a class="card">
+                <a href = "./FilmPage.vue" class="card">
                     <img src="../img/f1.jpg" alt="" class="card_img">
                     <h2 class="card_head">Матрица: Перезагрузка</h2>
                         <!--Использую "img.card_star*5" для создания иконок-->
